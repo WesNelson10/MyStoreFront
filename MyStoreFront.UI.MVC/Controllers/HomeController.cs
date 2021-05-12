@@ -18,6 +18,7 @@ namespace MyStoreFront.UI.MVC.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public ActionResult Contact()
         {
             return View();

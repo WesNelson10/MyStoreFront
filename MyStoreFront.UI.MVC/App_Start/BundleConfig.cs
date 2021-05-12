@@ -23,8 +23,17 @@ namespace MyStoreFront.UI.MVC
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/bootstrap.min.css",
+                      "~/Content/owl.carousel.min.css",
+                      "~/Content/flaticon.css",
+                      "~/Content/slicknav.css",
+                      "~/Content/animate.min.css",
+                      "~/Content/magnific-popup.css",
+                      "~/Content/fontawesome-all.min.css",
+                      "~/Content/themify-icons.css",
+                      "~/Content/slick.css",
+                      "~/Content/nice-select.css",
+                      "~/Content/style.css"));
         }
     }
 }

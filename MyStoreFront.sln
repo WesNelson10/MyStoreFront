@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1321
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStoreFront.UI.MVC", "MyStoreFront.UI.MVC\MyStoreFront.UI.MVC.csproj", "{CF207132-968C-4564-93CE-5461A9D6833B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStoreFront.DATA.EF", "MyStoreFront.DATA.EF\MyStoreFront.DATA.EF.csproj", "{A7FF5584-499B-4EAD-97BC-65D2C9329C39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF207132-968C-4564-93CE-5461A9D6833B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF207132-968C-4564-93CE-5461A9D6833B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF207132-968C-4564-93CE-5461A9D6833B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FF5584-499B-4EAD-97BC-65D2C9329C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FF5584-499B-4EAD-97BC-65D2C9329C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FF5584-499B-4EAD-97BC-65D2C9329C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FF5584-499B-4EAD-97BC-65D2C9329C39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
